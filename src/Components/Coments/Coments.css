@@ -1,0 +1,5 @@
+.data-3{
+      display: grid;
+      grid-template-columns: auto auto;
+      gap: 5px;
+}
